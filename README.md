@@ -32,7 +32,7 @@
 <!--Intro start-->
 <pre>
 💻 I am a Full Stack Developer
-📚 I am studing now like a software designer and developer at Tecsup
+📚 I am studing now like a software designer and developer
 📝 I have a strong interest in Artificial Intelligence
 🌱 I’m currently learning <b>to put together multiple Hyper Beast Stack for Scalable Applications</b>
 🌟 Main languages: Java, JavaScript
