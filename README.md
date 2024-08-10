@@ -16,10 +16,11 @@
 
 
 <!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WernerReyes/WernerReyes/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WernerReyes/WernerReyes/output/github-snake.svg" />
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/WernerReyes/WernerReyes/output/github-snake.svg" />
+</picture>
 
 
 <!--h2 without bottom border-->
